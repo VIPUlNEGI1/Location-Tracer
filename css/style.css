@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    block-size: border-box;
+    /* background: #000; */
+}
+html
+,body{
+    height: 100%;
+    width: 100%;
+    /* background: #000; */
+}
+
+#map{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    font-size: 1.5rem;
+    color: rgb(80, 79, 79);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
