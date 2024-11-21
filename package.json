@@ -1,0 +1,17 @@
+{
+  "name": "traker",
+  "version": "1.0.0",
+  "description": "this is the real  time traker",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "vipul negi",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "socket.io": "^4.8.1"
+  }
+}
